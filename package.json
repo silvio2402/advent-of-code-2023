@@ -1,0 +1,11 @@
+{
+  "name": "advent-of-code-2023",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "packageManager": "bun@1.0.14",
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
